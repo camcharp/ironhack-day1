@@ -1,0 +1,16 @@
+.table-one {
+    border: 3px solid grey;
+}
+
+.cell {
+    border: 3px solid black;
+    text-align: center;
+}
+
+.table-two td {
+    border: 3px solid black;
+}
+
+.table-two {
+    border-collapse: collapse;
+}
